@@ -37,8 +37,8 @@ Deux fonctionnalités vont au-delà du cahier des charges :
 
 ```bash
 # 1. Cloner le dépôt
-git clone <url-du-depot>
-cd eval
+git clone https://github.com/azixy-codes/next-weather-app.git
+cd next-weather-app
 
 # 2. Installer les dépendances
 npm install
